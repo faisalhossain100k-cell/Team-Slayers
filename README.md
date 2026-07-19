@@ -211,11 +211,6 @@ margin-top:40px;
 
 </body>
 </html>
-/* ==========================
-   SLAYERS ESPORTS
-   AI Gaming Theme
-========================== */
-
 *{
 margin:0;
 padding:0;
